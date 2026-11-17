@@ -1847,4 +1847,522 @@ M.Collections = {
 			{
 				SongName = "DJ LUMPUHKANLAH INGATANKU REMIX TKT REQ MIA",
 				SoundId = "rbxassetid://112132418900252",
-				ImageId = ... (14 KB left)
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.561,
+			},
+			{
+				SongName = "STARBOY",
+				SoundId = "rbxassetid://99549042572909",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "Akon - Smack That ft. Eminem",
+				SoundId = "rbxassetid://97154760751421",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "Modie - Drunk Text",
+				SoundId = "rbxassetid://80107678552279",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "Justin Bieber that should me",
+				SoundId = "rbxassetid://123891669611847",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "Powfu - death bed",
+				SoundId = "rbxassetid://80916484816567",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "Neeck Deep Wish you were",
+				SoundId = "rbxassetid://105588298569341",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "Justin Bieber - GHOST",
+				SoundId = "rbxassetid://88803005675318",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "Glass Animals - Heat Waves",
+				SoundId = "rbxassetid://118980217489952",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.500,
+			},
+			{
+				SongName = "Coldplay - Viva la Vida",
+				SoundId = "rbxassetid://112762127212016",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.561,
+			},	
+			{
+				SongName = "LAUT KIDUL",
+				SoundId = "rbxassetid://95054869182008",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.561,
+			},
+			{
+				SongName = "DJ PANDA 11",
+				SoundId = "rbxassetid://103842883732478",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "DJ PANDA 12",
+				SoundId = "rbxassetid://124888705641073",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "DJ PANDA 13",
+				SoundId = "rbxassetid://129949373355835",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "DJ PANDA 14",
+				SoundId = "rbxassetid://109500712106350",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "MIXTAPE 1",
+				SoundId = "rbxassetid://105456929806395",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "MIXTAPE 2",
+				SoundId = "rbxassetid://136979082713960",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "MIXTAPE 3",
+				SoundId = "rbxassetid://125878947841874",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "The Chainsmoker Roses",
+				SoundId = "rbxassetid://111596908088879",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "HOZIER - TAKE ME TRUCH",
+				SoundId = "rbxassetid://77251652004772",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "POST MALONE SWA LEE",
+				SoundId = "rbxassetid://98704665744128",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "Twenty One Pilots Stressed Out",
+				SoundId = "rbxassetid://74807668687733",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "FAR EAST Movement",
+				SoundId = "rbxassetid://90676185556466",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "Charli XCX - PARTY 4",
+				SoundId = "rbxassetid://115155829305748",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "Justin Bieber Yummi",
+				SoundId = "rbxassetid://76244234250508",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "Justin Bieber-loveyourself",
+				SoundId = "rbxassetid://119486697630266",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.4348,
+			},
+			{
+				SongName = "THE LOTUS OF LIFE",
+				SoundId = "rbxassetid://83846965659213",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 1.0,
+			},
+			{
+				SongName = "Batu Nisan - Cahaya Bidadari",
+				SoundId = "rbxassetid://136097148577819",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.749,
+			},
+			{
+				SongName = "TIMUR TRAGEDI",
+				SoundId = "rbxassetid://139787194551828",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 1.0,
+			},
+		},
+	},
+	{
+		name = "DJ VERSI BKB AGA BETCH",
+		image = ORIGINAL_COVER,
+		tracks = {
+			{
+				SongName = "DJ CINTA SURGA - Agaa Betch",
+				SoundId = "rbxassetid://100502238021244",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 1.0,
+			},
+			{
+				SongName = "DJ TENTANG PERASAANKU - Agaa Betch",
+				SoundId = "rbxassetid://120175568064212",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 1.0,
+			},
+			{
+				SongName = "JJ BUKAN CINTA BIASA - Agaa Betch",
+				SoundId = "rbxassetid://113713704144078",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 1.0,
+			},
+			{
+				SongName = "DJ HEY LADIES - Agaa Betch",
+				SoundId = "rbxassetid://81459757533631",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 1.0,
+			},
+			{
+				SongName = "DJ PUDAR (Rossa) - Agaa Betch",
+				SoundId = "rbxassetid://85570609823002",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 1.0,
+			},
+			{
+				SongName = "DJ AYAT AYAT CINTA - Agaa Betch",
+				SoundId = "rbxassetid://122942084430281",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 1.0,
+			},
+			{
+				SongName = "DJ DENTING - Agaa Betch",
+				SoundId = "rbxassetid://109730166407164",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 1.0,
+			},
+			{
+				SongName = "DJ DIA DIA DIA (Fatin) - Agaa Betch",
+				SoundId = "rbxassetid://127504938947864",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 1.0,
+			},
+			{
+				SongName = "DJ SELURUH CINTA - Agaa Betch",
+				SoundId = "rbxassetid://84340752815335",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.891,
+			},
+			{
+				SongName = "DJ DIBALIK PERTANDA AGAA BETCH BOODLEG",
+				SoundId = "rbxassetid://94231244498064",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 1.0,
+			},
+			{
+				SongName = "DJ KEPASTIAN - Agaa Betch",
+				SoundId = "rbxassetid://135342407952348",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.917,
+			},
+			{
+				SongName = "DJ INDAH (Agnez Mo) - Agaa Betch",
+				SoundId = "rbxassetid://119605770275605",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 1.0,
+			},
+		},
+	},
+	{
+		name = "INDOBOUNCE",
+		image = ORIGINAL_COVER,
+		tracks = {
+			{
+				SongName = "Adnan & Mamacita",
+				SoundId = "rbxassetid://128867956074691",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.45,
+			},
+			{
+				SongName = "Erga, Akeey, East Blake - Get Back",
+				SoundId = "rbxassetid://117780744086619",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.817,
+			},
+			{
+				SongName = "Stephanie (Adnan Veron x Mugitha Edit)",
+				SoundId = "rbxassetid://76703925438575",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.749,
+			},
+			{
+				SongName = "Flo Rida - GDFR ft. Sage The Gemini",
+				SoundId = "rbxassetid://82025169892155",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.578,
+			},
+			{
+				SongName = "ENGKOL PLAT KT",
+				SoundId = "rbxassetid://91786510043071",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.817,
+			},
+			{
+				SongName = "DJ ADA BAYANGMU X INDOBOUNCE TRUMPET V2 BG",
+				SoundId = "rbxassetid://100766546103811",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.891,
+			},
+			{
+				SongName = "APA ARTINYA CINTA (Indobounce)",
+				SoundId = "rbxassetid://79102379151122",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.561,
+			},
+		},
+	},
+	{
+		name = "JAWA RIMEX",
+		image = ORIGINAL_COVER,
+		tracks = {
+			{
+				SongName = "Mendung Tanpo Udan - DJiamputh x Kukuh",
+				SoundId = "rbxassetid://124835367893350",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.891,
+			},
+			{
+				SongName = "AKU CAH KERJO - DJiamputh (DJ VERSION)",
+				SoundId = "rbxassetid://129014886792410",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.891,
+			},
+			{
+				SongName = "TEMAN RASA PACAR - DJiamputh",
+				SoundId = "rbxassetid://110505813874596",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.817,
+			},
+			{
+				SongName = "PIKIR KERI - DJiamputh (DJ VERSION)",
+				SoundId = "rbxassetid://104612201683633",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.891,
+			},
+			{
+				SongName = "RAISO DADI SIJI - DJiamputh FT Nok Yeka",
+				SoundId = "rbxassetid://96127295292771",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.841,
+			},
+			{
+				SongName = "Mangan Ra Njaluk Kowe - Djiamputh & Niken Melani",
+				SoundId = "rbxassetid://85127901360188",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.866,
+			},
+			{
+				SongName = "NDX AKA - Ngertenono Ati",
+				SoundId = "rbxassetid://74686128738441",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.794,
+			},
+			{
+				SongName = "jawa - mencintai-dengan-ngeyel",
+				SoundId = "rbxassetid://115305770785950",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.561,
+			},
+			{
+				SongName = "STEL KENDO X RUTINITAS RADONG - DJiamputh",
+				SoundId = "rbxassetid://109001175793843",
+				ImageId = ORIGINAL_COVER,
+				PlaybackSpeed = 0.944,
+			},
+		},
+	},
+}
+
+local function extractId(value)
+	if value == nil then
+		return ""
+	end
+
+	local valueType = type(value)
+	if valueType ~= "string" and valueType ~= "number" then
+		return ""
+	end
+
+	local str = tostring(value)
+	local id = str:match("rbxassetid://(%d+)")
+	if id and id ~= "0" then
+		return id
+	end
+
+	id = str:match("^%s*(%d+)%s*$")
+	if id and id ~= "0" then
+		return id
+	end
+
+	return ""
+end
+
+local function isValidImageId(imageId)
+	return extractId(imageId) ~= ""
+end
+
+function M.getSoundIds(track)
+	if type(track) ~= "table" then
+		return {}
+	end
+
+	local ids = {}
+	local seen = {}
+
+	if type(track.SoundIds) == "table" then
+		for _, soundId in ipairs(track.SoundIds) do
+			local id = extractId(soundId)
+			if id ~= "" and not seen[id] then
+				table.insert(ids, id)
+				seen[id] = true
+			end
+		end
+	end
+
+	-- Fallback to the single SoundId if SoundIds is absent or contains no valid IDs.
+	if #ids == 0 then
+		local id = extractId(track.SoundId)
+		if id ~= "" then
+			table.insert(ids, id)
+		end
+	end
+
+	return ids
+end
+
+function M.isMultiPart(track)
+	return #M.getSoundIds(track) > 1
+end
+
+function M.getFirstSoundId(track)
+	local ids = M.getSoundIds(track)
+	return ids[1] or ""
+end
+
+function M.flat(filterCollectionName)
+	local list = {}
+
+	for _, col in ipairs(M.Collections or {}) do
+		if type(col) == "table"
+			and ((not filterCollectionName) or col.name == filterCollectionName) then
+
+			for _, track in ipairs(col.tracks or {}) do
+				if type(track) == "table" then
+					local soundIds = M.getSoundIds(track)
+					local firstId = soundIds[1] or ""
+
+					-- Use the track cover first; fall back to its collection cover.
+					local imageSource = track.ImageId
+					if not isValidImageId(imageSource) then
+						imageSource = col.image
+					end
+					local imageId = isValidImageId(imageSource) and extractId(imageSource) or nil
+
+					if firstId ~= "" then
+						local playbackSpeed = tonumber(track.PlaybackSpeed) or 1.0
+						if playbackSpeed <= 0 then
+							playbackSpeed = 1.0
+						end
+
+						table.insert(list, {
+							name = tostring(track.SongName or "Unknown Track"),
+							id = firstId,
+							soundIds = soundIds,
+							isMultiPart = #soundIds > 1,
+							partCount = #soundIds,
+							col = tostring(col.name or "Unknown Collection"),
+							imageId = imageId,
+							playbackSpeed = playbackSpeed,
+						})
+					end
+				end
+			end
+		end
+	end
+
+	return list
+end
+
+function M.formatTime(secs)
+	local value = tonumber(secs) or 0
+	if value ~= value or value == math.huge or value == -math.huge then
+		value = 0
+	end
+
+	value = math.max(0, math.floor(value))
+	local minutes = math.floor(value / 60)
+	local seconds = value % 60
+	return string.format("%02d:%02d", minutes, seconds)
+end
+
+-- Optional diagnostic helper. It does not print or change your collection.
+function M.validate()
+	local errors = {}
+
+	if type(M.Collections) ~= "table" then
+		return false, { "M.Collections harus berupa table." }
+	end
+
+	for collectionIndex, col in ipairs(M.Collections) do
+		if type(col) ~= "table" then
+			table.insert(errors, ("Koleksi #%d bukan table."):format(collectionIndex))
+		else
+			if type(col.name) ~= "string" or col.name == "" then
+				table.insert(errors, ("Nama koleksi #%d kosong."):format(collectionIndex))
+			end
+
+			if type(col.tracks) ~= "table" then
+				table.insert(errors, ("tracks pada koleksi #%d harus berupa table."):format(collectionIndex))
+			else
+				for trackIndex, track in ipairs(col.tracks) do
+					if type(track) ~= "table" then
+						table.insert(errors, ("Track #%d di koleksi #%d bukan table."):format(trackIndex, collectionIndex))
+					elseif #M.getSoundIds(track) == 0 then
+						table.insert(errors, ("SoundId tidak valid pada track #%d di koleksi #%d."):format(trackIndex, collectionIndex))
+					end
+				end
+			end
+		end
+	end
+
+	return #errors == 0, errors
+end
+
+M.Catalog = M.flat(nil)
+
+return M
